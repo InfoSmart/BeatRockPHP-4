@@ -1,0 +1,31 @@
+/* TEAM */
+
+	Webmaster: Iván Bravo
+	Contact: ivan-bravo@infosmart.mx
+	Twitter: @Kolesias123
+	Facebook: /ivan.bravo.br
+	From: Ciudad Lázaro Cárdenas, Mich, México.
+
+/* THANKS */
+
+
+/* SITE */
+
+	Language: es
+	Doctype: HTML5
+	Standards: CSS3, JavaScript, LESS
+
+	/* DEVELOPMENT */
+	/* Programas que usaste para desarrollar la aplicación */
+	BeatRock: http://rock.infosmart.mx/
+
+	/* SOFTWARE */
+	/* Programas que usas para mantener la aplicación */
+	PHP: http://php.net/
+	MySQL: http://mysql.com/
+
+	/* DEBUG & ACTION */
+	Google Chrome: http://www.google.com/chrome
+
+	/* UTILS */
+	/* Utilidades, herramientas, sitios que te ayudaron */

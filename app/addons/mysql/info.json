@@ -1,0 +1,8 @@
+{
+	"id": 			"beat.infosmart.config.mysql",
+	"title": 		"Configuración de MySQL",
+	"description": 	"Permite el uso de MySQLi dentro de BeatRock",
+	"author": 		"Iván Bravo Bravo",
+	"url": 			"",
+	"min.version": 	"1.0.0"
+}
